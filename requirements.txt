@@ -1,0 +1,4 @@
+torch==1.13.1
+torchvision==0.14.1
+# CUDA version is handled by PyTorch, so it doesn't need to be explicitly included here.
+# If needed, you can specify the Python version for your environment separately.
