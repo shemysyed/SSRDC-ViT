@@ -1,0 +1,3 @@
+Datsets For Pretrain
+Download NIH chest Xray,Padchest,Covid chest xray From publicly available links and combined their Train set for Pretraining
+Fpr finetuning NIH,Pneumonia and covid chest xray datasets are used. All are publicly available
